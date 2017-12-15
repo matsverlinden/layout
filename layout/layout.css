@@ -1,0 +1,100 @@
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	background-color: black;
+	position: fixed;
+	top: 0;
+	overflow: hidden;
+	width: 100%;
+}
+li {
+	float: left;
+}
+li a {
+	display: block;
+	color: white;
+	text-decoration: none;
+	padding: 20px 25px;
+	text-align: center;
+}
+li a:hover {
+	background-color: #222;
+}
+h1 {
+	margin-top: 70px;
+}
+main {
+	margin-left: 151px;
+}
+.text {
+	width: 640px;
+	word-wrap: break-word;
+	float: left;
+	margin right: 550px;
+}
+.img2 {
+	margin-top: 0px;
+}
+.twd {
+	text-align: left;
+}
+.text2 {
+	word-wrap: break-word;
+}
+.got {
+	right: 0px;
+}
+header {
+	margin-left: 150px;
+}
+.ll {
+	float: left;
+	margin-right: 20px;
+}
+.llp {
+	word-wrap: break-word;
+	float: right;
+	margin-right: 250px;
+}
+a {
+	text-decoration: none;
+}
+.ok {
+	word-wrap: break-word;
+	margin-right: 250px;
+}
+.oke {
+	word-wrap: break-word;
+	margin-right: 700px;
+}
+.ad {
+	position: fixed;
+	left: 0px;
+	top: 0px;
+}
+.ad2 {
+	position: fixed;
+	left: 0px;
+	top: 250px;
+}
+.ad3 {
+	position: fixed;
+	left: 0px;
+	top: 500px;
+}
+header {
+	margin-top: 150px;
+}
+.h1 {
+	color: lightblue;
+	margin-top: 20px;
+	margin-left: 10px;
+}
+p {
+	text-align: sans-serif;
+}
+.nieuws {
+	word-wrap: break-word;
+	margin-right: 650px;
+}
